@@ -4,11 +4,11 @@
 
 leofs_release: rel
 leofs_manager_version_required: leo_manager-1.2.6
-leofs_cookie: <<leo_cookie>>
-leofs_master: <<leo_master>>
-leofs_slave: <<leo_slave>>
-leofs_replicaN: <<replicaN>>
-leofs_replicaR: <<replicaR>>
-leofs_replicaW: <<replicaW>>
-leofs_replicaD: <<replicaD>>
-leofs_replicaRAR: <<replicaRAR>>
+leofs_cookie: <<leofs_cookie>>
+leofs_master: <<leofs_master>>
+leofs_slave: <<leofs_slave>>
+leofs_replicaN: <<leofs_replicaN>>
+leofs_replicaR: <<leofs_replicaR>>
+leofs_replicaW: <<leofs_replicaW>>
+leofs_replicaD: <<leofs_replicaD>>
+leofs_replicaRAR: <<leofs_replicaRAR>>
