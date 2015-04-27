@@ -1,0 +1,14 @@
+---
+# Kevin M. Meziere <kmeziere@jpcatholic.com>
+# Copyright 2015, John Paul the Great Catholic University
+
+leofs_release: rel
+leofs_manager_version_required: leo_manager-1.2.6
+leofs_cookie: <<leo_cookie>>
+leofs_master: <<leo_master>>
+leofs_slave: <<leo_slave>>
+leofs_replicaN: <<replicaN>>
+leofs_replicaR: <<replicaR>>
+leofs_replicaW: <<replicaW>>
+leofs_replicaD: <<replicaD>>
+leofs_replicaRAR: <<replicaRAR>>
