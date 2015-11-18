@@ -13,7 +13,7 @@
   register: fifo_gpg_key
   changed_when: fifo_gpg_key.rc != 0
   ignore_errors: True
-  when: snarl_version_installed.stdout != "{{ leofs_manager_version_required }}"
+  when: leofs_version_installed.stdout != "{{ leofs_manager_version_required }}"
 
 - name: Install Project Fifo GPG Key
   shell: "curl https://project-fifo.net/fifo.gpg | gpg --primary-keyring /opt/local/etc/gnupg/pkgsrc.gpg --import"
