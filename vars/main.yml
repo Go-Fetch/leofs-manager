@@ -12,3 +12,4 @@ leofs_replicaR: <<leofs_replicaR>>
 leofs_replicaW: <<leofs_replicaW>>
 leofs_replicaD: <<leofs_replicaD>>
 leofs_replicaRAR: <<leofs_replicaRAR>>
+fifo_gpg_keyid: BB975564
