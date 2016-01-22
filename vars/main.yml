@@ -4,12 +4,12 @@
 
 leofs_release: rel
 leofs_manager_version_required: leo_manager-1.2.16
-leofs_cookie: <<leofs_cookie>>
-leofs_master: <<leofs_master>>
-leofs_slave: <<leofs_slave>>
-leofs_replicaN: <<leofs_replicaN>>
-leofs_replicaR: <<leofs_replicaR>>
-leofs_replicaW: <<leofs_replicaW>>
-leofs_replicaD: <<leofs_replicaD>>
-leofs_replicaRAR: <<leofs_replicaRAR>>
+leofs_cookie: b24izd4d5g9wpcz64o6p
+leofs_master: manager0@172.16.2.201
+leofs_slave: manager1@172.16.2.202
+leofs_replicaN: 1
+leofs_replicaR: 1
+leofs_replicaW: 1
+leofs_replicaD: 1
+leofs_replicaRAR: 0
 fifo_gpg_keyid: BB975564
